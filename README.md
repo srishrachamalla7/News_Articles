@@ -1,5 +1,5 @@
 The Hindu Telugu RSS Scraper
-This repository contains a Python script that scrapes the data from the RSS feed of the Hinfu Telugu website. The script extracts the titles, links, and descriptions of the articles from the RSS feed and saves them to a CSV file.
+This repository contains a Python script that scrapes the data from the RSS feed of the Hinfu Telugu website. The script extracts the titles, links, and descriptions of the articles from the RSS feed and print the Headlines,author,time of publish and summary. 
 
 Requirements
 Python 3.6+
